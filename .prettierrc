@@ -1,4 +1,5 @@
 {
   "singleQuote": true,
-  "trailingComma": "all"
+  "trailingComma": "all",
+  "editor.codeActionsOnSave": { "source.fixAll.eslint": true }
 }
